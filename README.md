@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenstolk" alt="stephenstolk" /></a> </p>
 
-- 🔭 I’m currently working on **EcoGrow**
+- 🔭 I’m currently working on **Tervive**
 
 - 🌱 I’m currently learning **Typescript, Streamlit**
 
